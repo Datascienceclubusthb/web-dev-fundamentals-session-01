@@ -24,8 +24,7 @@ https://drive.google.com/file/d/15PnuFEgDot8EHF2djgJb1fBPMn6Kiweu/view?usp=shari
 
 ## 📄 Presentation Slides
 
-👉 **Download the PDF or :**
-[📄 Download Presentation](`presentation/web_funds_sess.pdf`)
+👉 [** Download Presentation :**](`/presentation/web_funds_sess.pdf`)
 
 ---
 
